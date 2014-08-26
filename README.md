@@ -7,7 +7,7 @@ that takes the output of the loader and puts it into a usable form for the appli
 
 Easy Usage:
 
-   OBJLoader.loadModel(scanner, objectOutput);
+    OBJLoader.loadModel(scanner, objectOutput);
 
 Complex Usage:
 
